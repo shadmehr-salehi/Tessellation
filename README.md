@@ -6,4 +6,6 @@ In this essay, we delve into the world of rewrite tilings, exploring their histo
 significance, problem complexity, types, decidability, and relationships.
 
 Authored By : [Foozhan Fahimzade](https://github.com/FoozhanFahimzade) , [Shadmehr Salehi](https://github.com/shadmehr-salehi) , [Nazanin Zarei](https://github.com/nazaninzareirad)  <br>
-May be used under `CC BY` License
+
+## License
+[Attribution 4.0 International (CC BY-SA 4.0)](/LICENSE.md)
